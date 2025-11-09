@@ -1,3 +1,5 @@
+![Oxygen Miner 6 Dashboard](Screenshot 2025-11-07 234131.png)
+---
 # 💎 Oxygen Miner 6
 
 **Oxygen Miner 6** by **Oxygen Miners** is a top-of-the-line data mining software that empowers users to extract valuable insights from their data.  
