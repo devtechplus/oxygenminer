@@ -1,4 +1,4 @@
-![Oxygen Miner 6 Dashboard](Screenshot 2025-11-07 234131.png)
+![Oxygen Miner 6](overview.png)
 ---
 # 💎 Oxygen Miner 6
 
